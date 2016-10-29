@@ -6,7 +6,7 @@ def you_can_vote (age)
       puts "Só se quiser, más em bh só tem candidato safado >.<"
     else
       puts "Sim, más em bh só tem candidato safado >.<"
-    end
+  	end
 end
 
 puts "Digite sua idade"
