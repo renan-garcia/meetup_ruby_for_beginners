@@ -1,4 +1,4 @@
-# meetuprubyforbeginners
+# meetup_ruby_for_beginners
 
 Exercícios propostos no Meetup Ruby para Iniciantes realizado pela Le Wagon.
 
